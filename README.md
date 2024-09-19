@@ -1,7 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
-## Worked with/sources 
+# Chauncy Hendon
+# Lab 2
+# 9/19/2024
+# Reuben Macguire
 * example
 * example
 * example
