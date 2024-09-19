@@ -4,7 +4,8 @@
 # Lab 02 
 # Lab Section: 12
 # Sources, people worked with, help given to: 
-# Reuben McGuire
+# Reuben McGuire (helped me)
+# Peter Martinez (helped him)
 
 
 your_variable_here = "when you see this, replace it with your code"
